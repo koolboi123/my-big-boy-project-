@@ -21,7 +21,7 @@
                     "id": "704970bd-8ba7-4a17-8f4f-cfb40a0b2e46",
                     "path": "2DVector",
                     "interactions": "",
-                    "processors": "",
+                    "processors": "InvertVector2(invertY=false)",
                     "groups": "",
                     "action": "Move",
                     "isComposite": true,
